@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-			Poverty text Adventure
+			Poverty text Adventure!
       </h1>
     </div>
   );
