@@ -5,6 +5,8 @@ import Home from './Components/Home';
 import { SimulationHome } from "./Components/SimulationHome.js";
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
+
+
 function App() {
   return (
 
@@ -20,5 +22,6 @@ function App() {
 
   );
 }
-export default App;
 
+
+export default App;
