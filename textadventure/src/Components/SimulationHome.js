@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Cards from './Cards';
+import CardItem from './CardItem';
 
 export class SimulationHome extends Component {
 	render() {
