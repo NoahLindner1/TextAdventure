@@ -1,7 +1,8 @@
 import React from 'react';
 import '../App.css';
-import { Button } from './Button';
 import './HeroSection.css';
+import { Button } from './Button';
+import {Link} from "react-router-dom";
 
 function HeroSection() {
   return (
@@ -10,21 +11,24 @@ function HeroSection() {
       <h1>Step into my shoes</h1>
       <p>What are you waiting for?</p>
       <div className='hero-btns'>
-        <Button
+      <Link to="/Simulation1">
+        <button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
          Learn More
-        </Button>
-        <Button
+        </button>
+      </Link>
+      <Link to='/simulations'>
+        <button
           className='btns'
           buttonStyle='btn--primary'
           buttonSize='btn--large'
-          onClick={console.log('hey')}
         >
           Start a Simulation <i className='far fa-play-circle' />
-        </Button>
+        </button>
+      </Link>
       </div>
     </div>
   );
