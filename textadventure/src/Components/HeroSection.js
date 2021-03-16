@@ -3,6 +3,7 @@ import '../App.css';
 import './HeroSection.css';
 import { Button } from './Button';
 import {Link} from "react-router-dom";
+import  { FactButton } from './FactButton.js';
 
 function HeroSection() {
   return (
@@ -11,23 +12,21 @@ function HeroSection() {
       <h1>Step into my shoes</h1>
       <p>What are you waiting for?</p>
       <div className='hero-btns'>
-      <Link to="/Simulation1">
-        <button
+	  <Link>
+        <FactButton
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
          Learn More
-        </button>
-      </Link>
-      <Link to='/simulations'>
-        <button
+        </FactButton>
+        <Button
           className='btns'
           buttonStyle='btn--primary'
           buttonSize='btn--large'
         >
           Start a Simulation <i className='far fa-play-circle' />
-        </button>
+        </Button>
       </Link>
       </div>
     </div>
