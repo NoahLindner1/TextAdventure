@@ -5,7 +5,7 @@ export class SimulationHome extends Component {
 	render() {
 		return (
 			<div>
-				Profiles will go here. I am inside the Simulation Home Component rn
+				Profiles will go in these cards
 				<Cards />
 			</div>
 		)
