@@ -4,7 +4,7 @@ const ProfileCard = props => {
     return(
         <div className='card text-center'>
             <div className='overflow'>
-                <img src= {props.imgsrc} alt='Image of woman with baby' className='card-img-top'/>
+                <img src= {props.imgsrc} className='card-img-top'/>
             </div>
             <div className='card-body text-dark'>
                 <h4 className='card-title'>{props.title}</h4>
