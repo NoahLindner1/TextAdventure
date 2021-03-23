@@ -1,0 +1,49 @@
+.headBody{
+	height: 100vh;
+	width: 100%;
+	background-image: linear-gradient(rgba(100, 100, 100, 0.568), rgb(0, 0, 0));
+}
+
+.userStory1{
+	font-size: 25px;
+	padding: 75px;
+	color: white;
+	
+}
+
+
+
+
+.choice1{
+	width: 48%;
+	margin: 5px;
+}
+
+.choice2{
+
+	width: 48%;
+	margin: 5px;
+	top: 57.3%;
+	left: 51%;
+	position: absolute;
+	
+}
+
+.p1{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+
+.p2{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+
+.btn2{
+	width: 20%;
+	left: 40%;
+	position: relative
+	
+}
