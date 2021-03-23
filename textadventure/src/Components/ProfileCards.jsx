@@ -17,7 +17,7 @@ class ProfileCards extends Component {
                     <div className="col-md-4">
                         <ProfileCard imgsrc={image2} title={"Profile Name Placeholder"}
                         description={"21 Year old transgender woman strapped on money needs to finish her last year of college"}
-                        route={'/Simulation1'}/>
+                        route={'/Simulation2'}/>
                     </div>
                 </div>
             </div>
