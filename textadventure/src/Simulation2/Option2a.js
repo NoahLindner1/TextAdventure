@@ -5,23 +5,23 @@ export class Option2a_2 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>The store owner is offended and tells you you’re the only one to cause problems with this. What should you do next?</h1>
-				<Link to="/Simulation1/Option1a1">
+				<h1>You are exhausted ALL THE TIME. Your professors notice you're falling asleep in class, and you are failing exams you would normally have aced because you fall asleep while studying. Now what do you?</h1>
+				<Link to="/Simulation2/Option2a1">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                You point out that the store still makes money on these products and threaten to call the state administrators.
+                You change jobs so that you can study while you're at work. It's less money per hour, but maybe it will help.
                 </button>
                 </Link>
-                <Link to="/Simulation1/Option1a2">
+                <Link to="/Simulation2/Option2a2">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                You give up on this store and leave.You’ll take the bus to a discount grocery store
+                You start drinking "high octane" energy drinks with lots of caffeine.
                 </button>
                 </Link>
 			</div>

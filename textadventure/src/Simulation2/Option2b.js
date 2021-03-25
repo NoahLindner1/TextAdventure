@@ -5,23 +5,23 @@ export class Option2b_2 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>The store owner apologizes, but it’s too late because the card already deducted the full amount. What should you do next?</h1>
-				<Link to="/Simulation1/Option1b1">
+				<h1>You earn the $600 fairly quickly, and you're not failing any courses! But you're so exhausted and rundown that you get sick, develop pneumonia, and wind up spending 3 nights in the hospital. Your parents dropped you from their insurance, so you're responsible for these hospital bills. Now what do you do?</h1>
+				<Link to="/Simulation2/Option2b1">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                You ask for store credit since the store profits, anyway.
+                You keep working the two jobs, but you take lots of vitamins with the 8 cups of coffee you drink every day.
                 </button>
                 </Link>
-                <Link to="/Simulation1/Option1b2">
+                <Link to="/Simulation2/Option2b2">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                You threaten to call state administrators.
+                You take on a third job with the hospital cleaning crew on Sundays. At least if you collapse from exhaustion, you'll already be at the hospital...
                 </button>
                 </Link>
 			</div>

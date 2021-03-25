@@ -5,7 +5,7 @@ export class Option2b1b_2 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>The store owner reluctantly agrees, and is clearly angry and kind of frightening when he slams the cash register closed and glares at you. He is very rude to you after that.</h1>
+				<h1>You start having terrible pains in your stomach, and when you finally go to the doctor they run expensive tests to find out that you've developed an ulcer. Ulcer medicines and healthy foods are so expensive!</h1>
 			</div>
 		)
 	}

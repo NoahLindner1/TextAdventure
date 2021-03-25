@@ -5,7 +5,7 @@ export class Option2a2a_2 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>The store owner cheats the next WIC customer who comes in, and you have to haul the baby, the stroller, diaper bag, and purse on the bus to the discount grocery store and then spend some of your limited funds on full-price cans of formula.</h1>
+				<h1>You think you're fine, but your blood pressure is turning your face and eyes red and you're scaring your friends with your erratic behavior! They call the school counselor, who makes you come in to talk with her about this collision course you're on. Do you really want a heart attack at age 21?</h1>
 			</div>
 		)
 	}

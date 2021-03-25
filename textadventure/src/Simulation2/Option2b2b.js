@@ -5,7 +5,7 @@ export class Option2b2b_2 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>The store owner promises to give you store credit for the other 8 cans if you don’t call.</h1>
+				<h1>It's just too much. You're so mentally, physically, emotionally exhausted that you no longer care about attending class or finishing your degree. You stop going to classes and fail the semester, so you'll have to complete one extra semester of classes in order to graduate. But you do have the $600 for the assessments.</h1>
 			</div>
 		)
 	}
