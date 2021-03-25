@@ -5,8 +5,8 @@ export class Option2b2_2 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>You threaten to call state administrators.</h1>
-				<Link to="/Simulation1/Option1b2b">
+				<h1>You take on a third job with the hospital cleaning crew on Sundays. At least if you collapse from exhaustion, you'll already be at the hospital...</h1>
+				<Link to="/Simulation2/Option2b2b">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'

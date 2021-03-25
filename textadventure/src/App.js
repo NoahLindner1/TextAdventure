@@ -104,6 +104,16 @@ function App() {
           <Route path='/Simulation2/Option1b1b' exact component={Option1b1b_2} />
           <Route path='/Simulation2/Option1b2' exact component={Option1b2_2} />
           <Route path='/Simulation2/Option1b2b' exact component={Option1b2b_2} />
+          <Route path='/Simulation2/Option2a' exact component={Option2a_2} />
+          <Route path='/Simulation2/Option2a1' exact component={Option2a1_2} />
+          <Route path='/Simulation2/Option2a1a' exact component={Option2a1a_2} />
+          <Route path='/Simulation2/Option2a2' exact component={Option2a2_2} />
+          <Route path='/Simulation2/Option2a2a' exact component={Option2a2a_2} />
+          <Route path='/Simulation2/Option2b' exact component={Option2b_2} />
+          <Route path='/Simulation2/Option2b1' exact component={Option2b1_2} />
+          <Route path='/Simulation2/Option2b1b' exact component={Option2b1b_2} />
+          <Route path='/Simulation2/Option2b2' exact component={Option2b2_2} />
+          <Route path='/Simulation2/Option2b2b' exact component={Option2b2b_2} />
         </Switch>
       </Router>
     </>

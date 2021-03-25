@@ -5,7 +5,16 @@ export class Option2_2 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>You immediately report this store to the state.</h1>
+				<h1>Take two part-time jobs from 6-8 am and 8 pm to midnight. You can sleep on Sunday, right?</h1>
+				<Link to="/Simulation2/Option2a">
+                <button
+                className='btns'
+                buttonStyle='btn--outline'
+                buttonSize='btn--large'
+                >
+                Next
+                </button>
+                </Link>
 			</div>
 		)
 	}

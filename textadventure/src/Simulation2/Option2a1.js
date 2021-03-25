@@ -5,8 +5,8 @@ export class Option2a1_2 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>You point out that the store still makes money on these products and threaten to call the state administrators.</h1>
-				<Link to="/Simulation1/Option1a1a">
+				<h1>You change jobs so that you can study while you're at work. It's less money per hour, but maybe it will help.</h1>
+				<Link to="/Simulation2/Option2a1a">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'
