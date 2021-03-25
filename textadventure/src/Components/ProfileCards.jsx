@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import ProfileCard from'./ProfileCard'
-import image1 from '../assets/woman-with-child.jpg'
+import image1 from '../assets/lady-with-child.jpg'
 import image2 from '../assets/college-girl.jpg'
 
 class ProfileCards extends Component {

@@ -5,6 +5,7 @@ import Home from './Components/Home';
 import { SimulationHome } from "./Components/SimulationHome.js";
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { FactHome } from "./Components/FactHome.js";
+import { GlossaryHome } from "./Components/GlossaryHome.js";
 import Head from './Simulation1/Head';
 import Option1 from './Simulation1/Option1';
 import Option2 from './Simulation1/Option2';
@@ -62,6 +63,7 @@ function App() {
           <Route path='/' exact component={Home} />
           <Route path='/simulations' exact component={SimulationHome} />
           <Route path='/poverty-facts' exact component={FactHome}/>
+          <Route path='/poverty-facts/glossary' exact component={GlossaryHome}/>
           <Route path='/Simulation1' exact component={Head} />
           <Route path='/Simulation1/Option1' exact component={Option1} />
           <Route path='/Simulation1/Option2' exact component={Option2} />
