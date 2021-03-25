@@ -77,6 +77,20 @@ function App() {
           <Route path='/Simulation1/Option1b1b' exact component={Option1b1b} />
           <Route path='/Simulation1/Option1b2' exact component={Option1b2} />
           <Route path='/Simulation1/Option1b2b' exact component={Option1b2b} />
+          <Route path='/Simulation1/Option2a' exact component={Option2a} />
+          <Route path='/Simulation1/Option2a1' exact component={Option2a1} />
+          <Route path='/Simulation1/Option2a1a' exact component={Option2a1a} />
+          <Route path='/Simulation1/Option2a2' exact component={Option2a2} />
+          <Route path='/Simulation1/Option2a2a' exact component={Option2a2a} />
+          <Route path='/Simulation1/Option2b' exact component={Option2b} />
+          <Route path='/Simulation1/Option2b1' exact component={Option2b1} />
+          <Route path='/Simulation1/Option2b1b' exact component={Option2b1b} />
+          <Route path='/Simulation1/Option2b2' exact component={Option2b2} />
+          <Route path='/Simulation1/Option2b2b' exact component={Option2b2b} />
+          
+
+
+
           <Route path='/Simulation2' exact component={Head_2} />
           <Route path='/Simulation2/Option1' exact component={Option1_2} />
           <Route path='/Simulation2/Option2' exact component={Option2_2} />

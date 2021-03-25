@@ -5,7 +5,8 @@ export class Option2a2a extends Component {
 	render() {
 		return (
 			<div>
-				<h1>The store owner cheats the next WIC customer who comes in, and you have to haul the baby, the stroller, diaper bag, and purse on the bus to the discount grocery store and then spend some of your limited funds on full-price cans of formula.</h1>
+				<h1>You have to use your last bus tokens to get to and from the agency. You’’ll have to walk and push the baby stroller to the next closest store for anything else you need, on a busy highway about 2 miles away.
+</h1>
 			</div>
 		)
 	}

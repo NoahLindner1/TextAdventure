@@ -5,8 +5,9 @@ export class Option2a1 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>You point out that the store still makes money on these products and threaten to call the state administrators.</h1>
-				<Link to="/Simulation1/Option1a1a">
+				<h1>You haul the diaper bag, purse, and the baby in his stroller on the bus 
+                to get to a discount grocery store and then spend some of your limited funds on full-price cans of formula.</h1>
+			<Link to="/Simulation1/Option2a1a">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'
@@ -15,7 +16,7 @@ export class Option2a1 extends Component {
                 Next
                 </button>
                 </Link>
-			</div>
+            </div>
 		)
 	}
 }

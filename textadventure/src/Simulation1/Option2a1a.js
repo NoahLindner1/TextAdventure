@@ -5,7 +5,8 @@ export class Option2a1a extends Component {
 	render() {
 		return (
 			<div>
-				<h1>The store owner promises to give you store credit for the other 8 cans if she doesn’t call.</h1>
+				<h1>You have enough formula for a few days, but don’t have enough money for all the diapers you need.</h1>
+			
 			</div>
 		)
 	}
