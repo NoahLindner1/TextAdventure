@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     font-size: 1.2rem;
-    position: sticky;
+    position: absolute;
     top: 0;
     z-index: 999;
   }
@@ -33,7 +33,12 @@
     margin-left: 0.5rem;
     font-size: 1.8rem;
   }
-  
+
+  .NavTitle{
+	  font-display: "fab fa-typo3"
+  }
+
+
   .nav-menu {
     display: grid;
     grid-template-columns: repeat(4, auto);
@@ -60,7 +65,8 @@
   
   .nav-links:hover {
     border-bottom: 4px solid #fff;
-    transition: all 0.2s ease-out;
+	transition: all 0.2s ease-out;
+	color: white;
   }
   
   .fa-bars {
@@ -74,6 +80,8 @@
   .menu-icon {
     display: none;
   }
+
+ 
   
   @media screen and (max-width: 960px) {
     .NavbarItems {
