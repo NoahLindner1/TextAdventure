@@ -12,8 +12,13 @@ function HeroSection() {
       <h1>Step into my shoes</h1>
       <p>What are you waiting for?</p>
       <div className='hero-btns'>
+        <a href= '/poverty-facts' role="button" className="btn btn-secondary btn-lg">Learn More</a>
+      {/* <button type="button" className="btn btn-outline-secondary btn-lg">
+          Learn More
+        </button> */}
 	  <Link>
-        <FactButton
+
+        {/* <FactButton
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
@@ -26,8 +31,12 @@ function HeroSection() {
           buttonSize='btn--large'
         >
           Start a Simulation <i className='far fa-play-circle' />
-        </Button>
+        </Button> */}
+        {/* <button type="button" className="btn btn-secondary btn-lg">
+          Start a Simulation
+        </button> */}
       </Link>
+      <a href='/simulations' role="button" className="btn btn-secondary btn-lg">Start a Simulation</a>
       </div>
     </div>
   );
