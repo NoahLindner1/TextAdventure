@@ -6,6 +6,15 @@ export class Option1b1b_2 extends Component {
 		return (
 			<div>
 				<h1>Now you have to pay $75 a month more than you already were to your friends to help with rent and food, and you'll STILL be paying $75 a month when they've graduated with you and moved out of the apartment.</h1>
+				<Link to="/Simulation2">
+                <button
+                className='btns'
+                buttonStyle='btn--outline'
+                buttonSize='btn--large'
+                >
+                Restart
+                </button>
+                </Link>
 			</div>
 		)
 	}
