@@ -6,6 +6,15 @@ export class Option2a1a_2 extends Component {
 		return (
 			<div>
 				<h1>You passed the class, paid for the 2 assessments, and had a little extra to celebrate graduation with your roommates.</h1>
+				<Link to="/Simulation2">
+                <button
+                className='btns'
+                buttonStyle='btn--outline'
+                buttonSize='btn--large'
+                >
+                Restart
+                </button>
+                </Link>
 			</div>
 		)
 	}
