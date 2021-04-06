@@ -17,7 +17,7 @@ export class Head extends Component {
 				type="button"
                 class='btn2 btn-light'
                 >
-				choice one
+				Choice one
                 </button>
                 </Link>
 				</div>
@@ -29,7 +29,7 @@ export class Head extends Component {
 				type="button"
                 class='btn2 btn-light'
                 >
-                choice two
+                Choice two
                 </button>
                 </Link>
 				</div>

@@ -1,0 +1,41 @@
+.Option1AHead{
+	height: 100vh;
+	width: 100%;
+	background-image: linear-gradient(rgba(100, 100, 100, 0.568), rgb(0, 0, 0));
+}
+
+.A1buttons{
+
+}
+
+.head{
+	padding: 50px;
+	color: white;
+}
+
+.p3{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+
+.p4{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+
+.p3Choice{
+	margin: 5px;
+	width: 48%;
+	top: 50%;
+	position: absolute;
+}
+
+.p4Choice{
+	margin: 5px;
+	width: 48%;
+	left: 51%;
+	top: 50%;
+	position: absolute;
+}

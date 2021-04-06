@@ -18,7 +18,7 @@ export class Option1a extends Component {
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                Choice 1
+                Choice one
                 </button>
                 </Link>
 				</div>
@@ -31,7 +31,7 @@ export class Option1a extends Component {
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                Choice 2
+                Choice two
                 </button>
                 </Link>
 				</div>
