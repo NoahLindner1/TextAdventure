@@ -9,6 +9,15 @@ export class Option2b1b extends Component {
 				<h1 className="O1Head">The store owner loses his WIC license and you will have to walk and push the baby stroller to the next closest store that’s on a busy highway, 2 miles away.
  
 </h1>
+				<Link to="/Simulation1">
+				<button
+                className='btn2'
+                buttonStyle='btn--outline'
+                buttonSize='btn--large'
+                >
+                restart
+                </button>
+				</Link>
 			</div>
 		)
 	}
