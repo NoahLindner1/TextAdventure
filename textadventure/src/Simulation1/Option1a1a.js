@@ -7,6 +7,16 @@ export class Option1a1a extends Component {
 		return (
 			<div className="Option1Body">
 				<h1 className="O1Head">The store owner promises to give you store credit for the other 8 cans if she doesn’t call.</h1>
+				
+				<Link to="/Simulation1">
+				<button
+                className='btn2'
+                buttonStyle='btn--outline'
+                buttonSize='btn--large'
+                >
+                restart
+                </button>
+				</Link>
 			</div>
 		)
 	}
