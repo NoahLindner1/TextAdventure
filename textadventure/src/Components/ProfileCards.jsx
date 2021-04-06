@@ -8,14 +8,14 @@ class ProfileCards extends Component {
         return (
             <div className="container-fluid d-flex justify-content-center">
                 <div className="row">
-                    <div className="col-md-2">
+                    <div className="col-sm-2">
                         {/* add profile cards with component below */}
-                        <ProfileCard imgsrc={image1} title={"Profile Name Placeholder"} 
+                        <ProfileCard imgsrc={image1} title={"LaTonya"} 
                         description="30 Year old African American woman needs to get baby formula for her child"
                         route={'/Simulation1'} />
                     </div>
-                    <div className="col-md-2">
-                        <ProfileCard imgsrc={image2} title={"Profile Name Placeholder"}
+                    <div className="col-sm-2">
+                        <ProfileCard imgsrc={image2} title={"Jesse"}
                         description={"21 Year old transgender woman strapped on money needs to finish her last year of college"}
                         route={'/Simulation2'}/>
                     </div>
