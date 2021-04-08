@@ -5,7 +5,7 @@ export class Option2a2a_3 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>You think you're fine, but your blood pressure is turning your face and eyes red and you're scaring your friends with your erratic behavior! They call the school counselor, who makes you come in to talk with her about this collision course you're on. Do you really want a heart attack at age 21?</h1>
+				<h1>2a2a. FINAL OUTCOME Your neighbor's daughter WANTS to help, but she has to work late and picks you up late. You miss your appointment time and your doctor office's policy is to charge you $50 for missed appointments.</h1>
 				<Link to="/Simulation2">
                 <button
                 className='btns'

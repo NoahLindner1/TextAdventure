@@ -5,7 +5,7 @@ export class Option2a1_3 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>You change jobs so that you can study while you're at work. It's less money per hour, but maybe it will help.</h1>
+				<h1>To be able to afford the bus transportation for the extra doctor visit, you cut back on your meat purchases for the month.</h1>
 				<Link to="/Simulation2/Option2a1a">
                 <button
                 className='btns'
