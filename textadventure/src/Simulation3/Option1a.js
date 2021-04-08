@@ -5,23 +5,23 @@ export class Option1a_3 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>The loan company turns you down because your credit score is too high. Now what do you do?</h1>
-				<Link to="/Simulation2/Option1a1">
+				<h1>Your cheaper food is chock-full of sodium and artificial flavors, so your blood pressure skyrockets. Now you have to add an extra doctor's visit.</h1>
+				<Link to="/Simulation3/Option1a1">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                You tell the loan company about your trust fund--you'll be getting it in a year.
+                When you see the doctor, she is concerned about your blood pressure and prescribes a diuretic. There's no generic form of it available, so it's very expensive. You decide to just eat a lot of cucumbers, instead--they're good diuretics! You really like them with ranch dressing.
                 </button>
                 </Link>
-                <Link to="/Simulation2/Option1a2">
+                <Link to="/Simulation3/Option1a2">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                You call the college financial aid office--maybe they can help!
+                You can't go see the doctor because you don't feel well--your ankles are so swollen, it's too hard to walk.
                 </button>
                 </Link>
 			</div>

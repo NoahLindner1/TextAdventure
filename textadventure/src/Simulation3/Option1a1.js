@@ -5,8 +5,8 @@ export class Option1a1_3 extends Component {
 	render() {
 		return (
 			<div>
-				<h1>You tell the loan company about your trust fund--you'll be getting it in a year.</h1>
-				<Link to="/Simulation2/Option1a1a">
+				<h1>When you see the doctor, she is concerned about your blood pressure and prescribes a diuretic. There's no generic form of it available, so it's very expensive. You decide to just eat a lot of cucumbers, instead--they're good diuretics! You really like them with ranch dressing.</h1>
+				<Link to="/Simulation3/Option1a1a">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'
