@@ -4,6 +4,10 @@
 	background-image: linear-gradient(rgba(100, 100, 100, 0.568), rgb(0, 0, 0));
 }
 
+h1 {
+	color: white;
+}
+
 .userStory1{
 	font-size: 25px;
 	padding: 75px;

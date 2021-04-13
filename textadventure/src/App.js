@@ -114,6 +114,9 @@ function App() {
           <Route path='/Simulation2/Option2b1b' exact component={Option2b1b_2} />
           <Route path='/Simulation2/Option2b2' exact component={Option2b2_2} />
           <Route path='/Simulation2/Option2b2b' exact component={Option2b2b_2} />
+
+
+          <Route path='/Simulation3' exact component={Head_2} />
         </Switch>
       </Router>
     </>

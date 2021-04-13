@@ -8,16 +8,21 @@ class ProfileCards extends Component {
         return (
             <div className="container-fluid d-flex justify-content-center">
                 <div className="row">
-                    <div className="col-sm-2">
+                    <div className="col">
                         {/* add profile cards with component below */}
                         <ProfileCard imgsrc={image1} title={"LaTonya"} 
-                        description="30 Year old African American woman needs to get baby formula for her child"
+                        description="30-year-old African American woman needs to get baby formula for her child"
                         route={'/Simulation1'} />
                     </div>
-                    <div className="col-sm-2">
+                    <div className="col">
                         <ProfileCard imgsrc={image2} title={"Jesse"}
-                        description={"21 Year old transgender woman strapped on money needs to finish her last year of college"}
+                        description={"21-year-old transgender woman tight on money needs to finish her last year of college"}
                         route={'/Simulation2'}/>
+                    </div>
+                    <div className="col">
+                        <ProfileCard imgsrc={image2} title={"Elsa"}
+                        description={"75-year-old woman with ill health needs to get to the store and figure out how to get this months medications."}
+                        route={'/Simulation3'}/>
                     </div>
                 </div>
             </div>

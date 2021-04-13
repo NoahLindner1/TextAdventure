@@ -1,11 +1,14 @@
 import React from 'react';
+import "./ProfileCard.css"
+
 
 const ProfileCard = props => {
     return(
         <div className='card text-center'>
-            <div className='overflow'>
+            {/* <div className='overflow'>
                 <img src= {props.imgsrc} className='card-img-top'/>
-            </div>
+            </div> */}
+            <img class='card-img-top' src= {props.imgsrc}/>
             <div className='card-body text-dark'>
                 <h4 className='card-title'>{props.title}</h4>
                 <p className='card-text text-secondary'>
