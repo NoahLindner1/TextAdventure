@@ -9,7 +9,7 @@ import shoes from '../assets/walking-shoes.gif'
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src="/videos/walking-background.mp4" autoPlay loop muted />
+      <video src="/videos/homeless-walking.mp4" autoPlay loop muted />
       {/* <img src={shoes} alt="walking shoes" autoPlay loop muted/> */}
       <h1>Step into my shoes</h1>
       <p>What are you waiting for?</p>
