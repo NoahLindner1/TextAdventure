@@ -24,7 +24,7 @@ export class Option1a extends Component {
 				</div>
 
 				<div className = "p4Choice">
-					<p className="p4">You give up on this store and leave.You’ll take the bus to a discount grocery store</p>
+				<p className="p4">You give up on this store and leave.You’ll take the bus to a discount grocery store</p>
                 <Link to="/Simulation1/Option1a2">
                 <button
                 className='btn2'

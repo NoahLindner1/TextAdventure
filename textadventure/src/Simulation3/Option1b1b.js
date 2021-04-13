@@ -4,11 +4,12 @@ import {Link} from "react-router-dom";
 export class Option1b1b_3 extends Component {
 	render() {
 		return (
-			<div>
-				<h1>You buy a cheap laxative that your body overreacts to, and now you're dehydrated and need to go to the ER for fluids.</h1>
+			<div className="Option1Body">
+				<h1 className="O1Head">You buy a cheap laxative that your body overreacts to, and now you're dehydrated and need to go to the ER for fluids.</h1>
+				
 				<Link to="/Simulation3">
                 <button
-                className='btns'
+                className='btn2'
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >

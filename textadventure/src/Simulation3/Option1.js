@@ -4,8 +4,10 @@ import {Link} from "react-router-dom";
 export class Option1_3 extends Component {
 	render() {
 		return (
-			<div>
-				<h1>Stock up on foods from the $1 aisle at the grocery store so that you'll have enough money for all your medicine.</h1>
+			<div className="Option1Body">
+				<h1 className="O1Head">Stock up on foods from the $1 aisle at the grocery store so that you'll have enough money for all your medicine.</h1>
+				
+				<div className="buttonArea">
 				<Link to="/Simulation3/Option1a">
                 <button
                 className='btns'
@@ -15,6 +17,7 @@ export class Option1_3 extends Component {
                 Next
                 </button>
                 </Link>
+			</div>
 			</div>
 		)
 	}
