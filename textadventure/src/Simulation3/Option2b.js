@@ -11,7 +11,7 @@ export class Option2b_3 extends Component {
 				
 				<div className="p3Choice">
 				<p className="p3">Starting over with the extra amount of medication means you need extra amounts of certain foods that help your body with the side effects of the medication. You had budgeted your SNAP card for the month, but decide to use it up early. </p>
-				<Link to="/Simulation2/Option2b1">
+				<Link to="/Simulation3/Option2b1">
                 <button
                 className='btn2'
                 buttonStyle='btn--outline'
@@ -25,7 +25,7 @@ export class Option2b_3 extends Component {
 
 				<div className="p4Choice">
 				<p className="p4">Instead of spending money on the city bus or asking your neighbor's daughter for a ride, you decide to walk to the pharmacy yourself. It's nice out, and you have your walker with the build-in seat--you should be fine!</p>
-                <Link to="/Simulation2/Option2b2">
+                <Link to="/Simulation3/Option2b2">
                 <button
                 className='btn2'
                 buttonStyle='btn--outline'

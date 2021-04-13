@@ -6,7 +6,9 @@ export class Option2a1_3 extends Component {
 		return (
 			<div className="Option1a1Head">
 				<h1 className="O1Head">To be able to afford the bus transportation for the extra doctor visit, you cut back on your meat purchases for the month.</h1>
-				<Link to="/Simulation2/Option2a1a">
+				
+                <div className="buttonArea">
+                <Link to="/Simulation3/Option2a1a">
                 <button
                 className='btns'
                 buttonStyle='btn--outline'
@@ -16,6 +18,7 @@ export class Option2a1_3 extends Component {
                 </button>
                 </Link>
 			</div>
+            </div>
 		)
 	}
 }

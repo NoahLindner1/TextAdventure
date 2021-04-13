@@ -6,7 +6,7 @@ export class Option2a1a_3 extends Component {
 		return (
 			<div className="Option1Body">
 				<h1 className="O1Head">You become anemic and faint, so your neighbor calls an ambulance. Now you have an ambulance bill AND yet another follow-up doctor's visit. </h1>
-				<Link to="/Simulation2">
+				<Link to="/Simulation3">
                 <button
                 className='btn2'
                 buttonStyle='btn--outline'

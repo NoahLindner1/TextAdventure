@@ -9,7 +9,7 @@ export class Option2_3 extends Component {
 				
 				<div className="choice1">
 				<p className="p1">Your friend's meds are so old that their potency has changed. You get sick from taking them and need to go to the doctor for an extra time this month.</p>
-				<Link to="/Simulation2/Option2a">
+				<Link to="/Simulation3/Option2a">
                 <button
                 className='btn2'
                 buttonStyle='btn--outline'
@@ -22,7 +22,7 @@ export class Option2_3 extends Component {
 
 				<div className="choice2">
 				<p className="p2">Your friend's meds don't do a thing to help you, and now you've gone a week without correctly taking your medicine. That means you have to start over with two of them and take them more often to get them built up in your system. More prescriptions needed.</p>
-                <Link to="/Simulation2/Option2b">
+                <Link to="/Simulation3/Option2b">
                 <button
                 className='btn2'
                 buttonStyle='btn--outline'

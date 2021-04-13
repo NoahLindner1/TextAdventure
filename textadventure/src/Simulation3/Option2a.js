@@ -10,7 +10,7 @@ export class Option2a_3 extends Component {
 				<div className="A1buttona">
 				<div className="p3Choice">
 				<p className="p3"> To be able to afford the bus transportation for the extra doctor visit, you cut back on your meat purchases for the month.  </p>
-				<Link to="/Simulation2/Option2a1">
+				<Link to="/Simulation3/Option2a1">
                 <button
                 className='btn2'
                 buttonStyle='btn--outline'
@@ -23,13 +23,13 @@ export class Option2a_3 extends Component {
 
 				<div className = "p4Choice">
 				<p className="p4">You ask your neighbor's daughter to take you to the extra doctor's visit. </p>
-                <Link to="/Simulation2/Option2a2">
+                <Link to="/Simulation3/Option2a2">
                 <button
                 className='btn2'
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                
+                Choice Two
                 </button>
                 </Link>
 				</div>
