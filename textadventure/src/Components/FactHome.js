@@ -7,9 +7,6 @@ export class FactHome extends Component {
 	render() {
 		return (
 			<div>
-				<h2>
-					Learn More
-				</h2>
 				<div className="row">
 					<div className="col" style={{padding: '25px'}}>
 						<h3>About Us</h3>
