@@ -42,4 +42,4 @@ Buttons:
 btn2: utilized when there is two choice the user must make and restart buttons
 
 btns: utilized on all next buttons
-![image](https://user-images.githubusercontent.com/44238895/114918361-9d30dd00-9dec-11eb-83c8-a898bf74d084.png)
+
