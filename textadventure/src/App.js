@@ -89,6 +89,7 @@ function App() {
           <Route path='/simulations' exact component={SimulationHome} />
           <Route path='/poverty-facts' exact component={FactHome}/>
           <Route path='/poverty-facts/glossary' exact component={GlossaryHome}/>
+          
           <Route path='/Simulation1' exact component={Head} />
           <Route path='/Simulation1/Option1' exact component={Option1} />
           <Route path='/Simulation1/Option2' exact component={Option2} />

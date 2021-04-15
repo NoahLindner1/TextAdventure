@@ -48,6 +48,11 @@ function NavBar() {
                 Simulations
               </Link>
             </li>
+            <li className='nav-item'>
+              <Link to='/poverty-facts/glossary' className='nav-links' onClick={closeMobileMenu}>
+                Glossary
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>
