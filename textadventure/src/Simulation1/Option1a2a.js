@@ -14,7 +14,7 @@ export class Option1a2a extends Component {
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                restart
+                Restart
                 </button>
 				</Link>
 			 

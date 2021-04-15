@@ -7,7 +7,6 @@ export class Option1a1 extends Component {
 		return (
 			<div className="Option1a1Head">
 				<h1 className="O1Head">You point out that the store still makes money on these products and threaten to call the state administrators.</h1>
-				area for picture or image
 				<div className="buttonArea">
 				<Link to="/Simulation1/Option1a1a">
 

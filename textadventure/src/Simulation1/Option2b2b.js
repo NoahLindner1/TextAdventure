@@ -14,7 +14,7 @@ export class Option2b2b extends Component {
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                restart
+                Restart
                 </button>
 				</Link>
 			</div>

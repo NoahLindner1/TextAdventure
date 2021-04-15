@@ -12,7 +12,7 @@ export class Option2a1a extends Component {
 			buttonStyle="btn--outline"
 			buttonSize="btn--large"
 			>
-			restart
+			Restart
 			</button>
 			</Link>
 			</div>
