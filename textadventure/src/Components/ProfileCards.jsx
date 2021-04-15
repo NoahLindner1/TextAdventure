@@ -1,7 +1,8 @@
 import React, {Component} from 'react'
 import ProfileCard from'./ProfileCard'
 import image1 from '../assets/lady-with-child.jpg'
-import image2 from '../assets/college-girl.jpg'
+import image2 from '../assets/college-student.jpg'
+import image3 from '../assets/elderly-woman.jpg'
 
 class ProfileCards extends Component {
     render() {
@@ -18,7 +19,7 @@ class ProfileCards extends Component {
                     description={"21-year-old transgender woman tight on money needs to finish her last year of college"}
                     route={'/Simulation2'}/>
                         
-                    <ProfileCard imgsrc={image2} title={"Elsa"}
+                    <ProfileCard imgsrc={image3} title={"Elsa"}
                     description={"75-year-old woman with ill health needs to get to the store and figure out how to get this months medications."}
                     route={'/Simulation3'}/>
                     {/* <ProfileCard imgsrc={image1} title={"LaTonya"} 

@@ -1,6 +1,6 @@
 img {
     display: inline-block;
     /*makes card image roughly 1/3 of screen for column*/
-    max-width: 80%; 
+    max-width: 90%; 
     width: auto;
 }
