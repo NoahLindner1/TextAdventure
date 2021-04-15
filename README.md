@@ -1,6 +1,12 @@
 # TextAdventure
 <h2>Simulations<h2>
 <p>The simulations are each contained in their own folder. They all follow the same format, starting at the head followed by two options that lead to a series of two more options and a final result page. Each page of the simulation is made up of a prompt at the top, and two responses(one on each half of the page) followed by a button directly under. The final result page contains some closing text and a button to restart the simulation so the user can experience different paths and results. Also, the name of the person is listed at the top of the head page.<p>
+	
+<h2>Profile Cards<h2>
+<p>Implemented a ProfileCard component which utilizes the Bootstrap card style. Each profile card has an image, title, text, and button navigating to the head of the simulation for that profile. Then in order to store the profile cards, I implemented a ProfileCards component which stores the cards in masonry-like columns. The profile cards can be arranged in many ways, but depending on the size of the photos used for the card, the masonry-like columns allow for dynamic alignment.<p>
+	
+<h2>Learn More<h2>
+<p>The Learn More page includes an About Us section which discussed the purpose and drive behind the website and who the project owner/partners are. Next to About Us, we have Quick Facts which contains a list of poverty statistics within a household, and specifically how children are affected by poverty/food insecurity. Below, two table components were created and implemented. On the left table, the poverty guideline per number of people in a household is simply laid out. On the right, we see groups of people living in poverty- White, Black, Hispanic, Asian, and children under 18. At the footer of the Learn More page there is a button to bring you to a Glossary which consists of a list of words and their definitions.<p>
 
 
 <h2>Design template<h2>
